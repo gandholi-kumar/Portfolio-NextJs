@@ -22,3 +22,4 @@ https://youtu.be/Yw7yWHigGKI <br />
 
 https://nextjs.org/docs/app/building-your-application/optimizing/fonts
 https://react-svgr.com/playground/ - convert svg to react component
+https://www.midjourney.com/ - for generating images using AI
