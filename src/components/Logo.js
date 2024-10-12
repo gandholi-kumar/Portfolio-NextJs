@@ -20,7 +20,8 @@ const Logo = () => {
           ],
           transition: { duration: 1, repeat: Infinity },
         }}
-        className="w-16 h-16 bg-dark text-light text-2xl font-bold rounded-full flex items-center justify-center"
+        className="w-16 h-16 bg-dark text-light text-2xl font-bold rounded-full flex items-center justify-center border border-solid border-transparent dark:border-light
+        "
       >
         GS
       </MotionLink>
