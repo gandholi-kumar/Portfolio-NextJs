@@ -21,5 +21,9 @@ https://youtu.be/Yw7yWHigGKI <br />
 ### References:
 
 https://nextjs.org/docs/app/building-your-application/optimizing/fonts
-https://react-svgr.com/playground/ - convert svg to react component
 https://www.midjourney.com/ - for generating images using AI
+
+https://www.canva.com/ - text generation
+https://www.photoroom.com/tools/background-remover - for background removal
+https://www.img2go.com/ - for png to svg
+https://react-svgr.com/playground/ - convert svg to react component
